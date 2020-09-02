@@ -1,5 +1,3 @@
-# git-delete-problem-untracked-files
-
 Simple tool to solve an annoyance in git. Once in a while, when changing
 branches in UE4 -- particularly if the branch is in a different version 
 of UE4 -- I will the following error message:
